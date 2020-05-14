@@ -107,6 +107,6 @@ echo "Fire In Terminal"
 
 
 apt install libcaca
-cacafire
+
 echo "Lets Have A Awesome Day Buddy"
 exit
